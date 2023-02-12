@@ -7,7 +7,7 @@ CS student with a passion for data science and iOS Development
 Hello and welcome to my GitHub profile! My name is Mohamed Abdul-Aziz Eisa and I am currently studying computer science, with a focus on medical informatics. I am enrolled in the data science track at 365 Data Science, where I am learning to use a range of tools, including statistics, mathematics, Python, machine learning, and deep learning, to analyze data and uncover hidden patterns.
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [\[ Kaggle \] were i share article about data science](http://https://www.kaggle.com/xnrouseisa)
+* 🖥️  See my portfolio at [\[ Kaggle \] were i share article about data science](https://www.kaggle.com/xnrouseisa)
 * ✉️  You can contact me at [0xnrous@gmail.com]
 * 🧠  I'm learning Everything about \[ Data Science \] and some \[ iOS Development \]
 
