@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mohamed Eisa (0xnrous)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , I'm Mohamed Eisa (0xnrous)
 ==============================================================================================================================================
 
 CS student with a passion for Data Science and iOS Development
