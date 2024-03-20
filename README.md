@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS student with a passion for everything about **Data**
 --------------------------------------------------------------
 
-Hello and welcome to my GitHub profile! My name is Mohamed Abdul-Aziz Eisa and I am currently studying computer science, with a focus on Data (Science- Engineering). I am learning to use a range of tools, including statistics, mathematics, Python, machine learning, and deep learning, to analyze data and uncover hidden patterns.
+Hello and welcome to my GitHub profile! My name is Mohamed Abdul-Aziz Eisa and I am currently studying computer science, with a focus on Data (Science - Engineering). I am learning to use a range of tools, including statistics, mathematics, Python, machine learning, and deep learning, to analyze data and uncover hidden patterns.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [0xnrous@gmail.com](0xnrous@gmail.com)
