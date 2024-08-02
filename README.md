@@ -8,7 +8,7 @@ Hello and welcome to my GitHub profile! My name is Mohamed Abdul-Aziz Eisa and I
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [0xnrous@gmail.com](0xnrous@gmail.com)
-* 🧠  I'm learning Everything about \[ Data Science - Engineering \] and some \[ iOS Development \]
+* 🧠  I'm learning Everything about \[ Data Science - Engineering \] 
 
 ### Skills
 
