@@ -4,7 +4,7 @@ Hi,   I'm Mohamed Abdulaziz Eisa, Machine Learning Engineer
 CS student with a passion for everything about **Data**
 --------------------------------------------------------------
 
-Hello and welcome to my GitHub profile! My name is Mohamed AbdulAziz Issa and I am currently studying computer science, with a focus on Data (Science - Engineering). I am learning to use a range of tools, including statistics, mathematics, Python, machine learning, and deep learning, to analyze data and uncover hidden patterns.
+Hello and welcome to my GitHub profile! My name is Mohamed AbdulAziz Eisa and I am currently studying computer science, with a focus on Data (Science - Engineering). I am learning to use a range of tools, including statistics, mathematics, Python, machine learning, and deep learning, to analyze data and uncover hidden patterns.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [0xnrous@gmail.com](0xnrous@gmail.com)
