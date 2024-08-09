@@ -6,7 +6,7 @@ Computer Science and AI graduate with a passion for all things **Data**
 
 * 🌍  I'm based in Egypt, Cairo 
 * ✉️  You can contact me at [0xnrous@gmail.com](0xnrous@gmail.com)
-* 🧠  I'm learning Everything about \[ Data Science - Engineering - IOS Development \] 
+* 🧠  I'm learning Everything about \[ Data Science - Engineering - iOS Development \] 
 
 ### Skills
 
